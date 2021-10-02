@@ -8,3 +8,4 @@ x=int(input("Enter the number to find factorial :"))
 fac=fact(x)
 print("The factorial of %d is %d"%(x,fac))
 
+
